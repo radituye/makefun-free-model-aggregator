@@ -1,0 +1,1 @@
+{"description":"A free AI model aggregator serving the OpenAI Chat Completions and Anthropic Messages APIs over ten free providers.","license":"MIT","main":"main.ts","name":"makefun-free-model-aggregator","private":true,"scripts":{"list":"node main.ts --list","start":"node main.ts"},"type":"module","version":"1.0.0"}
